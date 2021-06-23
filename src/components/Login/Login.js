@@ -126,7 +126,7 @@ const Login = (props) => {
         />
         <Input
           id="password"
-          label="password"
+          label="Password"
           type="password"
           isValid={passwordState.isValid}
           value={passwordState.value}
